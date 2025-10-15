@@ -39,4 +39,5 @@ A TF-IDF vectorizer was used to generate feature vectors for both sets.
 <li>Recall</li>
 <li>F1-score</li>
 
-**Confusion Matrix**
+**Confusion Matrix:**
+![Confusion Matrix](This PC/Pictures/Saved Pictures/FakeNewsDetectionConfuisionMatrix.png)
