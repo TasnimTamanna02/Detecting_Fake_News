@@ -40,7 +40,6 @@ A TF-IDF vectorizer was used to generate feature vectors for both sets.
 <li>F1-score</li>
 <img width="565" height="207" alt="FakeNewsDetectionResult" src="https://github.com/user-attachments/assets/22add442-ba68-4201-8cec-2f64f2a19726" />
 
-**Confus![Uploading FakeNewsDetectionResult.png…]()
-ion Matrix:**
+**Confusion Matrix:**
 <img width="673" height="495" alt="FakeNewsDetectionConfuisionMatrix" src="https://github.com/user-attachments/assets/f853df0b-4b53-41d0-a43c-f29e43e48109" />
 
